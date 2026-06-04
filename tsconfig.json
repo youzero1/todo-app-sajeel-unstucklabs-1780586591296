@@ -16,7 +16,6 @@
     "noUnusedLocals": false,
     "noUnusedParameters": false,
     "strictNullChecks": false,
-    "types": ["node"],
     "baseUrl": ".",
     "paths": {
       "@/*": ["./src/*"]
